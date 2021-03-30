@@ -22,6 +22,7 @@ namespace Making_Classes
             this.lastName = lastName.Trim();
             studentNum = generator.Next(999) + 392000;
             GenerateEmail();
+
         }
 
         public string FirstName
