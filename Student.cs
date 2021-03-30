@@ -23,6 +23,7 @@ namespace Making_Classes
             studentNum = generator.Next(999) + 392000;
             GenerateEmail();
 
+
         }
 
         public string FirstName
